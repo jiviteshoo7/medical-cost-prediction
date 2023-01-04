@@ -25,13 +25,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 You will need the following software and libraries installed on your system:
 
-* ![Python](https://www.python.org/static/img/python-logo.png) Python 3.7+
-* ![NumPy](https://numpy.org/images/logo.svg) NumPy
-* ![Pandas](https://pandas.pydata.org/static/img/pandas_white.svg) Pandas
-* ![Scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png) Scikit-learn
-* ![Matplotlib](https://matplotlib.org/_static/images/logo2.svg) Matplotlib
+- [Python](https://www.python.org/) 3.7+ - Programming language
+- [NumPy](https://numpy.org/) - Numerical computing library
+- [Pandas](https://pandas.pydata.org/) - Data analysis library
+- [Scikit-learn](https://scikit-learn.org/stable/) - Machine learning library
+- [Matplotlib](https://matplotlib.org/) - Data visualization library
 
-You can install these dependencies using `pip`:
+You can install these dependencies using `pip` or from `requirements.txt` file:
 
 
 ## Data
@@ -58,4 +58,26 @@ If you would like to contribute to this project, please open a pull request.
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
+
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width=72 height=72>
+  </a>
+
+  <a href="https://numpy.org/">
+    <img src="https://numpy.org/images/logo.svg" alt="NumPy" width=72 height=72>
+  </a>
+
+  <a href="https://pandas.pydata.org/">
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width=72 height=72>
+  </a>
+
+  <a href="https://scikit-learn.org/stable/">
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width=72 height=72>
+  </a>
+
+  <a href="https://matplotlib.org/">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width=72 height=72>
+  </a>
+</p>
 
