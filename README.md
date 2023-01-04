@@ -25,11 +25,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 You will need the following software and libraries installed on your system:
 
-* ![Python](https://github.com/logos/python.png) Python 3.7+
-* ![NumPy](https://github.com/logos/numpy.png) NumPy
-* ![Pandas](https://github.com/logos/pandas.png) Pandas
-* ![Scikit-learn](https://github.com/logos/scikit-learn.png) Scikit-learn
-* ![Matplotlib](https://github.com/logos/matplotlib.png) Matplotlib
+* ![Python](https://www.python.org/static/img/python-logo.png) Python 3.7+
+* ![NumPy](https://numpy.org/images/logo.svg) NumPy
+* ![Pandas](https://pandas.pydata.org/static/img/pandas_white.svg) Pandas
+* ![Scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png) Scikit-learn
+* ![Matplotlib](https://matplotlib.org/_static/images/logo2.svg) Matplotlib
 
 You can install these dependencies using `pip`:
 
